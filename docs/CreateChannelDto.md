@@ -1,0 +1,11 @@
+# SimpleBillyApi.CreateChannelDto
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**channelType** | **String** |  | 
+**config** | **Object** |  | 
+**name** | **String** |  | 
+
+

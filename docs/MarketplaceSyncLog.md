@@ -1,0 +1,17 @@
+# SimpleBillyApi.MarketplaceSyncLog
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**completedAt** | **Date** |  | [optional] 
+**connectionId** | **String** | References the marketplace connection entity. | 
+**errorMessage** | **String** |  | [optional] 
+**itemsFailed** | **Number** |  | 
+**itemsSynced** | **Number** |  | 
+**platform** | **String** |  | 
+**startedAt** | **Date** |  | 
+**status** | [**SyncLogStatus**](SyncLogStatus.md) |  | 
+**syncType** | [**SyncType**](SyncType.md) |  | 
+
+

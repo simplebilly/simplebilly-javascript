@@ -1,0 +1,9 @@
+# SimpleBillyApi.ActivityStatusUpdate
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**status** | **String** |  | 
+
+

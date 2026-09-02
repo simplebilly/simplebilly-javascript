@@ -1,0 +1,9 @@
+# SimpleBillyApi.InviteRequest
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**email** | **String** |  | 
+
+
